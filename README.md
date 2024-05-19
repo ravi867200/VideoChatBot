@@ -21,7 +21,7 @@
 
 ### Heroku
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/brut-ctrl/VideoChatBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/ravi867200/VideoChatBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 
 ## Commands
@@ -54,7 +54,7 @@ nstream - Stop Video Streaming
 
 ## Self Hosting on VPS
 ```sh
-$ git clone https://github.com/brut-ctrl/VideoChatBot.git
+$ git clone https://github.com/ravi867200/VideoChatBot.git
 $ cd VideoChatBot
 $ sudo apt-get install python3-pip ffmpeg
 $ pip3 install -U pip
@@ -67,7 +67,7 @@ $ python3 -m bot
 ## License
 ```sh
 VideoChatBot, Telegram Video Chat Bot
-Copyright (C) 2021 brut //  <https://github.com/brut-ctrl>
+Copyright (C) 2021 ravi //  <https://github.com/ravi867200>
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 Everyone is permitted to copy and distribute verbatim copies
