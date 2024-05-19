@@ -67,7 +67,7 @@ $ python3 -m bot
 ## License
 ```sh
 VideoChatBot, Telegram Video Chat Bot
-Copyright (C) 2021 brut //  <https://github.com/brut-ctrl>
+Copyright (C) 2021 brut //  <https://github.com/ravi
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 Everyone is permitted to copy and distribute verbatim copies
@@ -89,13 +89,3 @@ a publicly accessible server, gives the public access to the source
 code of the modified version
 ```
 
-## Credits
-- **[py-tgcalls](https://github.com/pytgcalls/pytgcalls)**
-- **[subinps](https://t.me/subin_works) for Brilliant Source Code**
-- **[Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)**
-- **[Safone](https://github.com/AsmSafone) for [Repo](https://github.com/AsmSafone/VideoPlayerBot)**
-- **[MarshalX](https://github.com/MarshalX) for [pytgcalls](https://github.com/MarshalX/tgcalls)**
-- **[Its-fork](https://github.com/Itz-fork)**
-- **TeamDaisyX**
-- **TheHamkerCat**
-- **And Thanks To All**
